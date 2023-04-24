@@ -2,7 +2,7 @@
 
 ## Description
 
-A study guide created for students in the coding bootcamp. It contains notes for various topics that the students have learnt at the bootcamp namely HTML, CSS, JS and Git.
+A study guide created for programming students in the coding bootcamp. It contains notes for various topics that the students have learnt at the bootcamp namely HTML, CSS, JS and Git.
 
 ## Installation
 
